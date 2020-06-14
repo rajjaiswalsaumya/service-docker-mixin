@@ -1,0 +1,11 @@
+# CMake
+cmake-build-*/
+*.iws
+out/
+.idea_modules/
+*.iml
+modules.xml
+.idea/misc.xml
+*.ipr
+.idea/
+.git/
